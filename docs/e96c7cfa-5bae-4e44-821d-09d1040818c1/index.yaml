@@ -24,3 +24,4 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/8782b367-6a91-430d-b64e-15d399d9a6f2
   relationType: sameAs
+maintenance-data: http://86.50.143.154:3001
