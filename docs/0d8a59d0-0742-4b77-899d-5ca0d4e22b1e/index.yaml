@@ -11,3 +11,4 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/fe274bc5-2737-47e3-84fe-390592026f8e
   relationType: child
+additional-field-containing-url: http:/notreal.com:3000
